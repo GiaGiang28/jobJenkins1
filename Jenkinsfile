@@ -9,7 +9,7 @@ pipeline {
         //     steps {
         //         // This step should not normally be used in your script. Consult the inline help for details.
         //         withDockerRegistry(credentialsId: 'creden-dockerhub', url: '') {
-        //             // some block 1111111111 222222  1111 222
+        //             // some block 1111111111 222222  1111 222111
         //             sh label: '', script: 'docker build -t giagiang28/jenkins:latest .'
         //             sh label: '', script: 'docker push giagiang28/jenkins'
         //         }
